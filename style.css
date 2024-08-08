@@ -1,0 +1,58 @@
+/* Reset de estilos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos gerais */
+body {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace, sans-serif 15;
+    line-height: 1.0;
+    margin: 20px;
+    padding: 20px;
+    background-color: #9ed9e0;
+}
+
+header {
+    background-color: #0b6b58;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+section {
+    background-color: #e7f8f5;
+    border: 1px solid #ddd;
+    padding:30px;
+    margin-bottom: 30px;
+}
+
+section h2 {
+    color: #2E8B57;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    text-align: center;
+    color: #037c68;
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #ffffff;
+}
+.minha-imagem {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
